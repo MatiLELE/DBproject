@@ -1,2 +1,2 @@
 # DBproject
-A very simple example of data base creation using python 
+A very simple example of database creation using python and SQLite
